@@ -1,2 +1,2 @@
 // Program.cs
-Console.WriteLine("Siema, Snake działa!!!!");
+Console.WriteLine("Siema, Snake działa!!J!!");
